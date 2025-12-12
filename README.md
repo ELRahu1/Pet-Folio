@@ -1,2 +1,2 @@
-# Pet-Folio
+# Pet-folio
 Pet adoption website
